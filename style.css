@@ -16,6 +16,7 @@
     /* More saturated mint */
     --pink: #ff8787;
     /* More saturated pink */
+    --green: #00ff00;
     --blue: #4dadf7;
     /* More saturated blue */
     --yellow: #ffd43b;
@@ -180,7 +181,7 @@ header h1 {
 .rug {
     width: 140px;
     height: 80px;
-    background: var(--mint);
+    background: var(--green);
     border: none;
     border-radius: 20px;
 }
